@@ -1,0 +1,20 @@
+# Extra safety for whole project
+
+# Node (frontend)
+frontend/node_modules/
+frontend/build/
+
+# Java (backend)
+backend/target/
+backend/build/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
